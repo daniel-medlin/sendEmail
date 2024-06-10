@@ -1,0 +1,6 @@
+Hello<br>
+<br>
+This is a sample email.<br>
+It should be written in simple HTML and included with the script.<br>
+<br>
+<a href="Google.com">Links work too</a><br>
