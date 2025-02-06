@@ -1,5 +1,5 @@
 #!/bin/bash
-#Written by b00st3d 8 Mar 2024.  This script is to be used only in YOUR OWN controlled environment.  Any use of this script is ***AT YOUR OWN RISK***.
+#Written by Daniel Medlin 8 Mar 2024.  This script is to be used only in YOUR OWN controlled environment.  Any use of this script is ***AT YOUR OWN RISK***.
 #Do the research and understand what this script is doing (it just uses cURL). This was designed to highlight the risk to your network and users.
 die () {
 	echo >&2 "$0"
